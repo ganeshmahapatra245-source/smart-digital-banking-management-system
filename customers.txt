@@ -1,0 +1,6 @@
+1001|Ganesh Mahapatra|Prabhat Kumar Mahapatra|9348614085|ganesh@gmail.com|572554367890|Ranpur,Nayagarh|Savings|49700
+1002|Adyasha Ransingh|Braja Ransingh|5464647987|lali2006@gmail.com|567890431234|Jankia,Khordha|Savings|358600
+1003|Aurobinda Dash|Abhishek Dash|4667438779|aru@gmail.com|789009876543|Bhadrak|Savings|551000
+1004|Shradha Kapoor|Shakti Kapoor|6789054321|sushi24@gmail.com|567432455463|Mumbai|Current|6980
+1005|Rohit Suresh Saraf|Suresh Saraf|9234567456|roro@gmail.com|456789001234|Nepal|Savings|300600000
+1006|Urmila Mahapatra|Bhagirathi Mahapatra|7606075064|uma1998@gmail.com|345666667890|Rameshwara,Puri|Current|20005000
